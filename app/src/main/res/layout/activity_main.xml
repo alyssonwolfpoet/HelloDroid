@@ -39,7 +39,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="4dp"
+        android:layout_marginStart="16dp"
         android:layout_marginBottom="16dp"
         android:text="© 2022  Alysson, Inc."
         app:layout_constraintBottom_toBottomOf="parent"
